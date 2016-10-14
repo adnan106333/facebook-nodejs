@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2717f95-0599-45e4-bfcc-fb9e6296b5a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/api.js" afterPath="$PROJECT_DIR$/routes/api.js" />
     </list>
     <ignored path="scrumptious.iws" />
@@ -278,12 +277,12 @@
       <workItem from="1476345868289" duration="5167000" />
       <workItem from="1476373170509" duration="1288000" />
       <workItem from="1476377455616" duration="116000" />
-      <workItem from="1476414080617" duration="63000" />
+      <workItem from="1476414080617" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84077000" />
+    <option name="totallyTimeSpent" value="84302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
