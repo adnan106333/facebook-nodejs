@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2717f95-0599-45e4-bfcc-fb9e6296b5a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/api.js" afterPath="$PROJECT_DIR$/routes/api.js" />
     </list>
     <ignored path="scrumptious.iws" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="test.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/test.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
+            <state relative-caret-position="2370">
               <caret line="158" column="88" selection-start-line="158" selection-start-column="88" selection-end-line="158" selection-end-column="88" />
               <folding>
                 <marker date="1476350623198" expanded="true" signature="3879:3894" ph="..." />
@@ -43,7 +44,7 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="30">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -163,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,7 +185,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -275,12 +276,14 @@
       <workItem from="1476025527103" duration="3865000" />
       <workItem from="1476066423030" duration="32375000" />
       <workItem from="1476345868289" duration="5167000" />
-      <workItem from="1476373170509" duration="795000" />
+      <workItem from="1476373170509" duration="1288000" />
+      <workItem from="1476377455616" duration="116000" />
+      <workItem from="1476414080617" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83405000" />
+    <option name="totallyTimeSpent" value="84077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -628,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/test.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="2370">
           <caret line="158" column="88" selection-start-line="158" selection-start-column="88" selection-end-line="158" selection-end-column="88" />
           <folding>
             <marker date="1476350623198" expanded="true" signature="3879:3894" ph="..." />
@@ -714,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="30">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />

@@ -7,7 +7,7 @@ var MongoClient     = require('mongodb').MongoClient;
 var assert          = require('assert');
 var ObjectId        = require('mongodb').ObjectID;
 // var dbUrl = 'mongodb://localhost:27017/test';
-var dbUrl = 'mongodb://testuser:testuser@ds053176.mlab.com:53176/nservices_test';
+// var dbUrl = 'mongodb://testuser:testuser@ds053176.mlab.com:53176/nservices_test';
 
 exports.search = function (req, res) {
     var parameters              = req.query;
